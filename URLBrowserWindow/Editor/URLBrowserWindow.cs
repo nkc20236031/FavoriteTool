@@ -13,7 +13,7 @@ namespace Editor.URLBrowserWindow
 		private string _favoriteNameInput = "";
 		private List<FavoriteURL> _favorites = new();
 		private Vector2 _scrollPosition;
-		private string _favoritesFilePath = "Assets/Editor/URLBrowserWindow/Data/URLBrowserFavoritesData.json";
+		private string _favoritesFilePath = "Assets/URLBrowserWindow/Editor/Data/URLBrowserFavoritesData.json";
 		private int _editingIndex = -1;
 		private string _editingName = "";
 		private string _editingUrl = "";
