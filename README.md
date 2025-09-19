@@ -1,4 +1,4 @@
-# URLBrowserWindow
-Unityエディタ上で使用できるよく使うサイトをお気に入り登録して保存できるエディタ拡張
+# FavoriteTool
+Unityエディタ上で使用できる、よく使うサイトやフォルダ、アプリをお気に入り登録して保存・使用できるエディタ拡張ツール
 
-<img width="598" height="745" alt="image" src="https://github.com/user-attachments/assets/e3396af3-8481-45e0-a7b9-37f0ce28d58e" />
+<img width="570" height="661" alt="image" src="https://github.com/user-attachments/assets/2f0aec53-a4d4-4cad-b97a-be4e6d9bfb83" />
